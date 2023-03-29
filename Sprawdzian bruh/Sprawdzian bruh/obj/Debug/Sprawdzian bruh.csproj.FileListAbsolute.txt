@@ -1,0 +1,10 @@
+C:\Users\TEMP.VLO-30-17\source\repos\Sprawdzian bruh\Sprawdzian bruh\bin\Debug\Sprawdzian bruh.exe.config
+C:\Users\TEMP.VLO-30-17\source\repos\Sprawdzian bruh\Sprawdzian bruh\bin\Debug\Sprawdzian bruh.exe
+C:\Users\TEMP.VLO-30-17\source\repos\Sprawdzian bruh\Sprawdzian bruh\bin\Debug\Sprawdzian bruh.pdb
+C:\Users\TEMP.VLO-30-17\source\repos\Sprawdzian bruh\Sprawdzian bruh\obj\Debug\Sprawdzian bruh.csproj.AssemblyReference.cache
+C:\Users\TEMP.VLO-30-17\source\repos\Sprawdzian bruh\Sprawdzian bruh\obj\Debug\Sprawdzian_bruh.Form1.resources
+C:\Users\TEMP.VLO-30-17\source\repos\Sprawdzian bruh\Sprawdzian bruh\obj\Debug\Sprawdzian_bruh.Properties.Resources.resources
+C:\Users\TEMP.VLO-30-17\source\repos\Sprawdzian bruh\Sprawdzian bruh\obj\Debug\Sprawdzian bruh.csproj.GenerateResource.cache
+C:\Users\TEMP.VLO-30-17\source\repos\Sprawdzian bruh\Sprawdzian bruh\obj\Debug\Sprawdzian bruh.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.VLO-30-17\source\repos\Sprawdzian bruh\Sprawdzian bruh\obj\Debug\Sprawdzian bruh.exe
+C:\Users\TEMP.VLO-30-17\source\repos\Sprawdzian bruh\Sprawdzian bruh\obj\Debug\Sprawdzian bruh.pdb
